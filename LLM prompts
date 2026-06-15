@@ -1,0 +1,86 @@
+<section id="llm-comparison">
+    <h1>Introduction</h1>
+
+    <p>
+        Large Language Models (LLMs) are artificial intelligence systems trained on vast amounts
+        of textual data to understand and generate human language. These models are increasingly
+        used to access, summarize, and interpret information related to cultural heritage.
+    </p>
+
+    <p>
+        The purpose of this section is to evaluate how different LLMs describe and contextualize
+        the <strong>Cattedrale di Santa Maria del Fiore</strong>, one of the most iconic examples
+        of Gothic and Renaissance architecture. By comparing their responses, this project aims
+        to explore the strengths and limitations of AI-generated interpretations of historical
+        and architectural knowledge.
+    </p>
+
+    <p>The models were asked to discuss the following aspects of the cathedral:</p>
+
+    <ol>
+        <li>
+            <strong>Dome</strong> – its historical importance, architectural innovation,
+            and significance within the identity of Florence.
+        </li>
+
+        <li>
+            <strong>The Illusion of Size</strong> – how architectural elements,
+            proportions, and spatial design contribute to the perception of the cathedral's
+            monumental scale and grandeur.
+        </li>
+    </ol>
+
+    <p>The models compared in this project are:</p>
+
+    <ul>
+        <li>ChatGPT (OpenAI)</li>
+        <li>Gemini (Google)</li>
+    </ul>
+
+    <!-- DOME -->
+    <h2>1. Dome</h2>
+
+    <div class="comparison-container">
+
+        <div class="ai-box">
+            <h3>ChatGPT (OpenAI)</h3>
+
+            <p>
+                The Dome of the Cathedral of Santa Maria del Fiore, commonly known as Brunelleschi’s Dome, is one of the greatest achievements of Renaissance architecture and engineering. Designed by Filippo Brunelleschi and built between 1420 and 1436, it was the largest dome in the world at the time and remains the largest masonry dome ever constructed. Rising about 116 meters (381 feet) above Florence, the dome has an internal diameter of 45.5 meters and was revolutionary because it was built without the traditional wooden scaffolding that architects had previously considered essential. Brunelleschi solved this challenge by creating a double-shell structure connected by ribs and using an innovative herringbone brick pattern that allowed the dome to support itself during construction. Inside, visitors can admire the immense fresco of the Last Judgment painted by Giorgio Vasari and later completed by Federico Zuccari. Climbing the 463 steps to the top rewards visitors with breathtaking panoramic views of Florence and the surrounding Tuscan landscape. Today, the dome remains the symbol of Florence and a masterpiece that transformed the history of architecture.
+            </p>
+        </div>
+
+        <div class="ai-box">
+            <h3>Gemini (Google)</h3>
+
+            <p>
+                Brunelleschi's dome is a historic engineering marvel because it was built entirely without ground-up wooden scaffolding or temporary support frameworks, which contemporaries believed was impossible for a structure spanning 150 feet wide and starting 180 feet in the air. To solve this, Filippo Brunelleschi designed a revolutionary double-shell structure consisting of a thick, load-bearing inner vault and a lighter, protective outer shell, which are linked together by a network of hidden stone ribs and bound internally by massive iron and timber tension chains acting like hoops on a barrel to prevent the structure from splaying outward under its own immense weight. The brilliant key to its construction was a self-supporting herringbone masonry technique (spina di pesce), where rows of horizontal bricks were periodically interrupted by vertical bricks that locked the courses into place and directed gravity forces down the slightly pointed catenary curve toward the main vertical supports. This allowed the masonry to remain stable as it curved inward, transforming millions of pounds of stone and brick into a self-supporting vault that remains the largest masonry dome ever built.
+            </p>
+        </div>
+
+    </div>
+
+    <!-- ILLUSION OF SIZE -->
+    <h2>2. The Illusion of Size</h2>
+
+    <div class="comparison-container">
+
+        <div class="ai-box">
+            <h3>ChatGPT (OpenAI)</h3>
+
+            <p>
+                The illusion of the size of Santa Maria del Fiore Cathedral is created by several architectural techniques that make the building appear even larger and more impressive than it already is. The cathedral's enormous dome dominates the skyline of Florence and can be seen from many parts of the city, giving the impression that the building is closer and bigger than it actually is. Brunelleschi also designed the dome with a pointed shape and strong vertical lines that draw the viewer's eyes upward, emphasizing its height. In addition, the wide open spaces around the cathedral allow people to see the entire structure at once, making its scale feel overwhelming. Inside, the vast nave, high ceilings, and long perspective lines create a sense of endless space, making visitors perceive the interior as even larger than its actual dimensions. These visual effects were carefully planned to inspire awe and to demonstrate the wealth, power, and artistic achievements of Florence during the Renaissance.
+            </p>
+        </div>
+
+        <div class="ai-box">
+            <h3>Gemini (Google)</h3>
+
+            <p>
+                When step into the interior of Santa Maria del Fiore, you experience a striking, deliberate optical illusion: the cathedral initially feels much smaller, shorter, and more compact than its gargantuan exterior suggests. This is a psychological and architectural trick born from the Florentine Gothic style, which prioritized severe minimalism and massive human scale over the busy, soaring verticality of French Gothic churches.Instead of breaking the space up with hundreds of slender, repeating columns that give the eye a frame of reference for distance, the architects designed the nave with only four colossal, widely spaced bays (square sections) held up by massive, plain stone pillars. Because there are so few repeating architectural elements to count as your eyes scan the length of the building, your brain miscalculates the distance, condensing the vast space. The bare, austere whitewashed walls offer no decorative details or intricate carvings to provide a sense of depth, causing the walls to feel closer than they are. It is only when you notice the actual humans walking across the floor—looking like tiny, moving ants next to the towering columns—or when you stand directly beneath the dome and look up at the massive 3,600-square-meter Last Judgment fresco that the true, staggering scale of the world's fifth-largest cathedral suddenly hits you.  
+            </p>
+        </div>
+
+    </div>
+
+</section>
